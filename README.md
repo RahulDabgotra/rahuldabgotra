@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋🏼, I'm RAHUL DABGOTRA</h1>
 - 🔭 I’m currently working on project-daa and project-cs
-
-  
 - 🌱 I’m currently learning Spring Boot, React, Express
