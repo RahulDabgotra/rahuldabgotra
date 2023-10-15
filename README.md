@@ -17,4 +17,4 @@ Here are some ideas to get you started:
  - 🔭 I’m currently working on project-daa and project-cs   
  - 🌱 I’m currently learning Spring Boot, React, Express
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahuldabgotra&show_icons=true&theme=transparent&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahuldabgotra&show_icons=true&theme=dark&hide_border=true&&count_private=true&include_all_commits=true" />
