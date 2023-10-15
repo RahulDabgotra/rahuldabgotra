@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 ## Hi 👋🏼, I'm RAHUL DABGOTRA
  - 🔭 I’m currently working on project-daa and project-cs   
  - 🌱 I’m currently learning Spring Boot, React, Express
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${rahuldabgotra}.${rahuldabgotra})
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahuldabgotra&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
