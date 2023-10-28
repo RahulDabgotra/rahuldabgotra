@@ -1,4 +1,4 @@
-## नमस्ते 🙏🏼, I'm [Rahul][https://github.com/rahuldabgotra/]
+## नमस्ते 🙏🏼, I'm [Rahul](https://github.com/rahuldabgotra)
 
 ### I'm a Software Engineer!!
 
