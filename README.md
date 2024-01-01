@@ -5,20 +5,11 @@
  - 🔭 I’m currently working on project-rm
  - 🌱 I’m currently learning Spring Boot, React, Express
 
-### Let’s collaborate and create something amazing!
+#### Let’s collaborate and create something amazing!
 
 <!-- Social Media Additions 
 ### Connect with me:
 -->
-
-
-<!-- Stats-->
-### Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahuldabgotra&show_icons=true&count_private=true&theme=tokyonight)  
-
-<!-- Counter -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahuldabgotra&label=Profile%20views&color=6805D3&style=flat" alt="rahuldabgotra" /> </p>
-
 
 <!--
 **rahuldabgotra/rahuldabgotra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
