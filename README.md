@@ -1,9 +1,11 @@
 ## नमस्ते 🙏🏼, I'm [Rahul](https://github.com/rahuldabgotra)
 
-### I'm a Software Engineer exploring the endless possibilities of coding. Let’s collaborate and create something amazing!
+### I'm a Software Engineer exploring the endless possibilities of coding.
 
  - 🔭 I’m currently working on project-rm
  - 🌱 I’m currently learning Spring Boot, React, Express
+
+### Let’s collaborate and create something amazing!
 
 <!-- Social Media Additions 
 ### Connect with me:
