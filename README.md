@@ -2,10 +2,10 @@
 
 ### I'm a Software Engineer exploring the endless possibilities of coding.
 
- - 🔭 I’m currently working on project-rm
- - 🌱 I’m currently learning Spring Boot, React, Express
+ - 🔭 Currently focused on developing the Ask Documents Application.
+ - 🌱 Continuously enhancing my skills in Spring Boot and Angular.
 
-#### Let’s collaborate and create something amazing!
+#### Let's collaborate and craft remarkable solutions together!
 
 <!-- Social Media Additions 
 ### Connect with me:
