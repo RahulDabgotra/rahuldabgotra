@@ -1,11 +1,3 @@
-<h1 align="left">Hey 👋🏻 What's up?</h1>
-
-###
-
-<p align="left">My name is Rahul and I'm a Software Engineer, from India.</p>
-
-###
-
 <h2 align="left">About Me</h2>
 
 ###
