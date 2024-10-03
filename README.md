@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋🏻 What's up?</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I’m currently working on Book-Loop- App<br>📚 I'm currently learning Spring and Angular<br>🎯 Goals: ..<br>🎲 Fun fact: ...</p>
+<p align="left">✨ I’m currently working on Book-Loop- App<br>📚 I'm currently learning Spring and Angular<br>
 
 ###
 
@@ -96,29 +96,6 @@
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
 </div>
 
-###
-
-<h2 align="left">Socials</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/rahuldabgotra/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/rahuldabgotraa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.youtube.com/@rahuldabgotra" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="patreon.com/rahuldabgotra" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg" width="52" height="40" alt="patreon logo"  />
-  </a>
-  <a href="https://ko-fi.com/rahuldabgotra" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="52" height="40" alt="ko-fi logo"  />
-  </a>
-</div>
 
 ###
 
