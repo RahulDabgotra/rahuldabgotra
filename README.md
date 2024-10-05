@@ -1,19 +1,15 @@
 ## About Me
 
-✨ I’m currently working on [Book-Loop-App](https://github.com/rahuldabgotra/book-loop-app)
-
-📚 I'm currently learning Spring and Angular
-
 ###  Hey!! 🙏🏻, I'm [Rahul](https://github.com/rahuldabgotra), a passionate Software Engineer exploring the endless possibilities of coding.
 
-- 👨🏻‍💻 Currently focused on developing the Book-Loop- App.
+- 👨🏻‍💻 Currently focused on developing the [Book-Loop-App](https://github.com/rahuldabgotra/book-loop-app).
 - 📚 Continuously enhancing my skills in Spring Boot and Angular.
 - 🏀 Fun fact: I enjoy experimenting with new programming languages and technologies in my free time.
 - ✍🏻 Check out my [blogs](https://rahuldabgotra.github.io/personal-website/blogs/) for insights and interesting discussions.
   
 Let's collaborate and craft remarkable solutions together! Feel free to reach out 📫 for exciting projects and opportunities.
 
-### Tech Stack
+## Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,js,ts,react,angular,nodejs,py,flask,html,css,bootstrap,tailwind,git,github,md,figma,postgres,mysql,sqlite,mongodb,redis,rabbitmq,kafka,postman,selenium,docker,kubernetes,grafana,prometheus,azure,aws,gcp,githubactions,linux,bash,idea,androidstudio&perline=17)](https://skillicons.dev)
 
