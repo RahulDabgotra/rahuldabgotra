@@ -1,7 +1,6 @@
 ## About Me
 
 ✨ I’m currently working on [Book-Loop-App](https://github.com/rahuldabgotra/book-loop-app)
-
 📚 I'm currently learning Spring and Angular
 
 
