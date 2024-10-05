@@ -6,7 +6,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,js,ts,react,angular,nodejs,py,flask,html,css,bootstrap,tailwind,git,github,md,figma,postgres,mysql,sqlite,mongodb,redis,rabbitmq,kafka,postman,selenium,docker,kubernetes,grafana,prometheus,azure,aws,gcp,githubactions,linux,bash,idea,androidstudio&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,js,ts,react,angular,nodejs,py,flask,html,css,bootstrap,tailwind,git,github,md,figma,postgres,mysql,sqlite,mongodb,redis,rabbitmq,kafka,postman,selenium,docker,kubernetes,grafana,prometheus,azure,aws,gcp,githubactions,linux,bash,idea,androidstudio&perline=20)](https://skillicons.dev)
 
 
 <h2 align="left">Tech Stack</h2>
