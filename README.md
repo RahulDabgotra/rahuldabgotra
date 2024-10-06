@@ -11,7 +11,8 @@ Let's collaborate and craft remarkable solutions together! Feel free to reach ou
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,js,ts,react,angular,nodejs,py,flask,html,css,bootstrap,tailwind,git,github,md,figma,postgres,mysql,sqlite,mongodb,redis,rabbitmq,kafka,postman,selenium,docker,kubernetes,grafana,prometheus,azure,aws,gcp,githubactions,linux,bash,idea,androidstudio&perline=17)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,js,ts,react,angular,nodejs,py,flask,html,css,bootstrap,tailwind,git,github,md,figma,postgres,mysql,sqlite,mongodb,redis,rabbitmq,kafka,postman,selenium,docker,kubernetes,grafana,prometheus,azure,aws,gcp,githubactions,linux,bash,idea,androidstudio&perline=17)]
+<!-- (https://skillicons.dev) -->
 
 ## GitHub Activities
 
