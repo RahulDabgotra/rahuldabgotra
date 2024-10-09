@@ -1,13 +1,11 @@
 ## About Me
 
-###  Hey!! 🙏🏻, I'm [Rahul](https://github.com/rahuldabgotra), a passionate Software Engineer exploring the endless possibilities of coding.
-
 - 👨🏻‍💻 Currently focused on developing the [Book-Loop-App](https://github.com/rahuldabgotra/book-loop-app).
 - 📚 Continuously enhancing my skills in Spring Boot and Angular.
 - 🏀 Fun fact: I enjoy experimenting with new programming languages and technologies in my free time.
 - ✍🏻 Check out my [blogs](https://rahuldabgotra.github.io/personal-website/blogs/) for insights and interesting discussions.
   
-Let's collaborate and craft remarkable solutions together! Feel free to reach out 📫 for exciting projects and opportunities.
+Let's collaborate and craft remarkable solutions together!
 
 ## Tech Stack
 
